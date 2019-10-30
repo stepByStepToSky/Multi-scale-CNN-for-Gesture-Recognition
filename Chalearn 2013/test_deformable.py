@@ -7,6 +7,7 @@ import tensorflow as tf
 import tensorflow.contrib.layers as layers
 import tensorflow.contrib.framework as framework
 
+import h5py
 import numpy
 import os
 import model_deformable
