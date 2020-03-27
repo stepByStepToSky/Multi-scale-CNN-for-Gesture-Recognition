@@ -4,6 +4,8 @@ We provide our implementation of multi-path multi-scale CNN for skeleton-based g
 
 ## Requirement
 tensorflow==1.9.0
+h5py
+numpy
 
 ## Attribution       
 
